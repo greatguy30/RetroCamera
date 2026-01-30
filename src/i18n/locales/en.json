@@ -1,0 +1,71 @@
+{
+    "common": {
+        "loading": "Loading Glass UI..."
+    },
+    "camera": {
+        "authorize": "Authorize Camera",
+        "authorizeBody": "Enable camera to start your retro journey.",
+        "checkingPermissions": "Checking permissions...",
+        "saveToAlbum": "Save to Album",
+        "saving": "Saving...",
+        "saved": "Saved to RetroCam",
+        "error": "Save failed",
+        "flip": "Flip Camera",
+        "zoom": "Zoom",
+        "retake": "Retake",
+        "requestPermission": "Requesting camera permission...",
+        "noPermission": "We need your camera permission to take photos",
+        "grantPermission": "Grant Permission",
+        "modes": {
+            "polaroid": "Polaroid",
+            "leica": "Leica",
+            "hasselblad": "Hasselblad",
+            "movie": "Movie",
+            "fuji": "Fuji",
+            "normal": "Normal"
+        }
+    },
+    "profile": {
+        "title": "Profile",
+        "settings": "Settings",
+        "theme": "Theme",
+        "themeMode": {
+            "system": "System",
+            "light": "Light",
+            "dark": "Dark"
+        },
+        "accentColor": "Accent Color",
+        "autoSave": "Auto Save",
+        "autoSaveDesc": "Automatically save to album after shooting",
+        "filmGrain": "Film Grain",
+        "filmGrainDesc": "Simulate vintage film grain texture",
+        "language": "Language",
+        "avatar": "Change Avatar",
+        "about": "About",
+        "version": "Version",
+        "accents": {
+            "blue": "Sky Blue",
+            "pink": "Sakura Pink",
+            "orange": "Sunset Orange",
+            "green": "Mint Green",
+            "purple": "Lavender",
+            "yellow": "Lemon Yellow"
+        }
+    },
+    "tabs": {
+        "camera": "Camera",
+        "space": "Space",
+        "profile": "Profile"
+    },
+    "space": {
+        "preparing": "Preparing space...",
+        "permissionTitle": "Album Permission Required",
+        "permissionBody": "Authorize to view your retro moments on the photo wall.",
+        "grantPermission": "Grant Album Permission",
+        "notSupported": "Album access is not supported on this device.",
+        "loadFailed": "Failed to load album, please try again later.",
+        "title": "Memory Wall",
+        "count": "{{count}} Memories",
+        "empty": "Memory wall is empty, go take a photo!"
+    }
+}

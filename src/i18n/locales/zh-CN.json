@@ -1,0 +1,71 @@
+{
+    "common": {
+        "loading": "加载玻璃界面..."
+    },
+    "camera": {
+        "authorize": "授权相机",
+        "authorizeBody": "开启相机权限，开始你的复古之旅。",
+        "checkingPermissions": "正在检查权限...",
+        "saveToAlbum": "保存到相册",
+        "saving": "正在保存...",
+        "saved": "已保存到 RetroCam",
+        "error": "保存失败",
+        "flip": "翻转相机",
+        "zoom": "焦距",
+        "retake": "重拍",
+        "requestPermission": "正在请求相机权限...",
+        "noPermission": "我们需要您的相机权限来拍照",
+        "grantPermission": "授予权限",
+        "modes": {
+            "polaroid": "拍立得",
+            "leica": "徕卡",
+            "hasselblad": "哈苏",
+            "movie": "电影",
+            "fuji": "富士",
+            "normal": "正常"
+        }
+    },
+    "profile": {
+        "title": "个人资料",
+        "settings": "设置",
+        "theme": "主题",
+        "themeMode": {
+            "system": "跟随系统",
+            "light": "浅色",
+            "dark": "深色"
+        },
+        "accentColor": "强调色",
+        "autoSave": "自动保存",
+        "autoSaveDesc": "拍摄后自动保存到相册",
+        "filmGrain": "胶片颗粒",
+        "filmGrainDesc": "模拟复古胶片的颗粒感",
+        "language": "语言",
+        "avatar": "更换头像",
+        "about": "关于",
+        "version": "版本",
+        "accents": {
+            "blue": "天空蓝",
+            "pink": "樱花粉",
+            "orange": "落日橙",
+            "green": "薄荷绿",
+            "purple": "薰衣草",
+            "yellow": "柠檬黄"
+        }
+    },
+    "tabs": {
+        "camera": "相机",
+        "space": "空间",
+        "profile": "我的"
+    },
+    "space": {
+        "preparing": "正在准备空间...",
+        "permissionTitle": "需要相册权限",
+        "permissionBody": "授权后即可在照片墙查看你拍摄的复古瞬间。",
+        "grantPermission": "开启相册权限",
+        "notSupported": "当前设备不支持访问相册。",
+        "loadFailed": "读取相册失败，请稍后重试。",
+        "title": "记忆墙",
+        "count": "{{count}} 张珍藏",
+        "empty": "记忆墙空空如也，去拍一张吧"
+    }
+}

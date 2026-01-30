@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "RetroCamera",
+    "slug": "retro-camera",
+    "icon": "./assets/images/icon-ios.png",
+    "scheme": "retro-camera",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "backgroundColor": "#F4F1EA",
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow Retro Camera to access your camera so you can capture photos."
+        }
+      ],
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Allow Retro Camera to access your photo library.",
+          "savePhotosPermission": "Allow Retro Camera to save photos to your library."
+        }
+      ],
+      "expo-font",
+      "expo-router",
+      "expo-localization"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.thebeard30.retro-camera",
+      "icon": "./assets/images/icon-ios.png"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+    "common": {
+        "loading": "グラスUIを読み込み中..."
+    },
+    "camera": {
+        "authorize": "カメラを許可",
+        "saveToAlbum": "アルバムに保存",
+        "saving": "保存中...",
+        "saved": "RetroCamに保存されました",
+        "error": "保存に失敗しました",
+        "flip": "カメラを反転",
+        "zoom": "ズーム",
+        "retake": "撮り直し",
+        "requestPermission": "カメラの権限をリクエスト中...",
+        "noPermission": "写真を撮るにはカメラの権限が必要です",
+        "grantPermission": "権限を許可",
+        "modes": {
+            "polaroid": "ポラロイド",
+            "leica": "ライカ",
+            "hasselblad": "ハッセルブラッド",
+            "movie": "ムービー",
+            "fuji": "富士",
+            "normal": "ノーマル"
+        }
+    },
+    "profile": {
+        "title": "プロフィール",
+        "settings": "設定",
+        "theme": "テーマ",
+        "themeMode": {
+            "system": "システム設定",
+            "light": "ライト",
+            "dark": "ダーク"
+        },
+        "accentColor": "アクセントカラー",
+        "autoSave": "自動保存",
+        "autoSaveDesc": "撮影後に自動的にアルバムに保存します",
+        "filmGrain": "フィルムグレイン",
+        "filmGrainDesc": "ヴィンテージフィルムの質感をシミュレートします",
+        "language": "言語",
+        "avatar": "アバターを変更",
+        "about": "情報",
+        "version": "バージョン",
+        "accents": {
+            "blue": "スカイブルー",
+            "pink": "サクラピンク",
+            "orange": "サンセットオレンジ",
+            "green": "ミントグリーン",
+            "purple": "ラベンダー",
+            "yellow": "レモンイエロー"
+        }
+    },
+    "tabs": {
+        "camera": "カメラ",
+        "space": "スペース",
+        "profile": "マイページ"
+    },
+    "space": {
+        "preparing": "スペースを準備中...",
+        "permissionTitle": "アルバムの権限が必要です",
+        "permissionBody": "許可すると、フォトウォールで撮影したレトロな瞬間を確認できます。",
+        "grantPermission": "アルバムの権限を許可",
+        "notSupported": "このデバイスではアルバムへのアクセスがサポートされていません。",
+        "loadFailed": "アルバムの読み込みに失敗しました。後でもう一度お試しください。",
+        "title": "メモリーウォール",
+        "count": "{{count}} 枚の思い出",
+        "empty": "メモリーウォールは空です。写真を撮りに行きましょう！"
+    }
+}

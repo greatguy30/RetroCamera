@@ -1,0 +1,69 @@
+{
+    "common": {
+        "loading": "載入玻璃介面..."
+    },
+    "camera": {
+        "authorize": "授權相機",
+        "saveToAlbum": "保存到相冊",
+        "saving": "正在保存...",
+        "saved": "已保存到 RetroCam",
+        "error": "保存失敗",
+        "flip": "翻轉相機",
+        "zoom": "焦距",
+        "retake": "重拍",
+        "requestPermission": "正在請求相機權限...",
+        "noPermission": "我們需要您的相機權限來拍照",
+        "grantPermission": "授予權限",
+        "modes": {
+            "polaroid": "拍立得",
+            "leica": "徠卡",
+            "hasselblad": "哈蘇",
+            "movie": "電影",
+            "fuji": "富士",
+            "normal": "正常"
+        }
+    },
+    "profile": {
+        "title": "個人資料",
+        "settings": "設置",
+        "theme": "主題",
+        "themeMode": {
+            "system": "跟隨系統",
+            "light": "淺色",
+            "dark": "深色"
+        },
+        "accentColor": "強調色",
+        "autoSave": "自動保存",
+        "autoSaveDesc": "拍攝後自動保存到相冊",
+        "filmGrain": "膠片顆粒",
+        "filmGrainDesc": "模擬復古膠片的顆粒感",
+        "language": "語言",
+        "avatar": "更換頭像",
+        "about": "關於",
+        "version": "版本",
+        "accents": {
+            "blue": "天空藍",
+            "pink": "櫻花粉",
+            "orange": "落日橙",
+            "green": "薄荷綠",
+            "purple": "薰衣草",
+            "yellow": "檸檬黃"
+        }
+    },
+    "tabs": {
+        "camera": "相機",
+        "space": "空間",
+        "profile": "我的"
+    },
+    "space": {
+        "preparing": "正在準備空間...",
+        "permissionTitle": "需要相冊權限",
+        "permissionBody": "授權後即可在照片牆查看你拍攝的復古瞬間。",
+        "grantPermission": "開啟相冊權限",
+        "notSupported": "當前設備不支持訪問相冊。",
+        "loadFailed": "讀取相冊失敗，請稍後重試。",
+        "title": "記憶牆",
+        "count": "{{count}} 張珍藏",
+        "empty": "記憶牆空空如也，去拍一張吧"
+    }
+}
