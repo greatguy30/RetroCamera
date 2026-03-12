@@ -50,4 +50,4 @@ yarn web
 - The viewfinder and Polaroid components live in `src/screens/CameraScreen.tsx`.
 
 ## License
-MIT (if you plan to add one, update here).
+License not specified yet.
